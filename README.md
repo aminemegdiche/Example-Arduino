@@ -1,9 +1,9 @@
 Exemples Arduino 
 =============================
 
--------------------------
-Directory Layout
--------------------------
+# Directory Structure
+
+```
 
 |   README.md
 |   
@@ -490,3 +490,4 @@ Directory Layout
         Pro Mini +  Prolific Technologies PL2032HX.JPG
         Untitled Sketch 2.fzz
         
+```
